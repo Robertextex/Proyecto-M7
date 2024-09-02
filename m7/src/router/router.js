@@ -6,7 +6,7 @@ import Product from '../screens/Product';
 import App from '../App';
 import LoginForm from '../screens/Forms/LoginForm';
 
-const basenamr= process.env.NODE_ENV==='production'? '/m7': '/';
+const basename= process.env.NODE_ENV==='production'? '/Proyecto-M7': '/';
 const routes = createBrowserRouter([
     {
         
