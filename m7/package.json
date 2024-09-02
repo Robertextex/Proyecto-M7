@@ -2,7 +2,7 @@
   "name": "m7",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Robertextex.github.io/Proyecto-M7/m7",
+  "homepage": "https://Robertextex.github.io/Proyecto-M7",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
